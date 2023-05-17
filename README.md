@@ -75,5 +75,25 @@ The test cases with steps can be viewed here: [Dependents_test_cases.pdf]()
 
 For the Dependants API, the following checklist was generated: [API_test_checklist.csv]()
 
+## 1.5 Test Implementation
+The following elements are needed to be ready before the test execution phase begins:
+
+- Testing environment is up and running: [https://opensource-demo.orangehrmlive.com/]()
+- Access to the testing environment is given: Username : Admin | Password : admin123
+- Cycle summary was created
+- Test cases were added to the cycle summary
+- Postman collection with the dependents API methods was created
+- Authorization token was created for accessing the API
+
+## 1.6 Test Execution
+- Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf]()
+  - Date format is not dd/mm/yyyy
+  - Future "Date of Birth" can be selected from calendar
+  - Only 50 characters are allowed for "Please Specify" field
+  - Only 50 characters are allowed for "Name" field
+  - Relationship "parent" is missing
+- API tests are executed based on the checklist. The collection used can be found here: [JSON file with the collection of requests created for the Dependents API]()
+- Full regression testing is needed after the bugs are fixed
 
 
