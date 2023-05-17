@@ -12,5 +12,5 @@ Tools used: Jira, Zephyr Squad, Postman, My SQL Workbench.
 # Functional specifications
 The below story was created in Jira and describes the functional specifications of the Dependants moldule, for which the final project is performed upon
 
-![Tux, the test](/assets/images/tux.png)
+(/assets/images/test.png)
 
