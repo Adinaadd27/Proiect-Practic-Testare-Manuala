@@ -1,13 +1,12 @@
 # Proiect-practic-testare-manuala
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and aplly them in practice, using a live application
 
-Application under test: [link to application](http://google.com)
+Application under test: [JpetStore Demo](https://jpetstore.aspectran.com/catalog/)
 
-API Documentation: link to API documentation if exists or N/A
 
 **The final project will be stplit into 2 section: [Testing section]() and  [SQL section]()**
 
-Tools used: Jira, Zephyr Squad, Postman, My SQL Workbench.
+Tools used: Jira, Zephyr Squad.
 
 # Functional specifications
 The below story was created in Jira and describes the functional specifications of the Dependants moldule, for which the final project is performed upon
@@ -15,7 +14,7 @@ The below story was created in Jira and describes the functional specifications 
 # 1 Testing section
 ## 1.1 Test planning
 
-The Test Plan is designed to describe all details of testing for the Dependants module from the OrangeHRM application.
+The Test Plan is designed to describe all details of testing for the Dependants module from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
