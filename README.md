@@ -4,7 +4,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 Application under test: [JpetStore Demo](https://jpetstore.aspectran.com/catalog/)
 
 
-**The final project will be stplit into 2 section: [Testing section]() and  [SQL section]()**
+
 
 Tools used: Jira, Zephyr Squad.
 
@@ -21,15 +21,18 @@ The plan identifies the items to be tested, the features to be tested, the types
 **Roles asigned to the project and persons allocated**
 
 - Project manager - Andrei Popescu
-- Product owner - Madalina Ionescu
-- Software developer - Gabriela Tomescu
-- QA Engineer - Iulia Albu
+- Product owner - Madalina Gheorghe
+- Software developer - Gabriel Tomescu
+- QA Engineer - Adina Anghel
 
 **1.1.2 Entry criteria defined**
 
 - functional specifications are defined
 - roles needed for the project are allocated
 - initial project risks were detected and mitigated
+- test schedule is prepared.
+- testing environment is up and running.
+- test data should be available to cover the different scenarios and use cases that will be tested.
 
 **1.1.3 Exit criteria defined**
 
@@ -38,17 +41,43 @@ The plan identifies the items to be tested, the features to be tested, the types
 - all resolved bugs have been re-tested and approved by the QA team
 - deadline was reached
 - no detected major risk remained un-mitigated
-- exploratory regression testing must be performed on the My Info module, which includes the Dependents section
+- all required documentation, including test plans, test cases, and test results, has been completed and reviewed.
+- 95% of tests are passed.
+- no Critical issues have Open status
+
 
 **1.1.4 Test scope**
 
-- **Tests in scope**: All the feature of Dependents module which were defined in software requirement specs need to be tested: functional testing, GUI testing and API testing
-- **Tests not in scope**: performance testing, integrations of the dependents module with other modules, compatibility testing with multiple browsers
+ **Tests in scope**:
+ 
+- To design a user-friendly interface that allows customers to browse and search for products easily.
+- To provide photos for each product so the customers will know what they are gonna purchased.
+- To add a variety of pets so you can have from where to choose from.
+- Compatible with all most used browsers and old versions of Android and iOS.
+
+ **Tests not in scope**: 
+
+- Non-functional testing like stress, accessibility, performance is beyond scope of this project.
+- Automation testing is beyond scope.
 
 **1.1.5 Risks detected**
 
-- Project risks: lack of experience of the QA team, short deadline of Zephyr Squad trial, unavailability of test environment
-- Product risks: validation constraints on the fields might be too restrictive to the end-user
+ Project risks:
+  
+- communication with the provider: Establish clear communication channels with the payment gateway provider to stay informed about updates, changes, and potential issues.
+- regular testing: Conduct regular testing to ensure that the integration with the payment gateway functions correctly and is ready for deployment.
+- communication breakdown: Poor communication and collaboration among team members, stakeholders, or external vendors can result in misunderstandings, delays, and rework.
+- diversify payment options: Consider integrating with multiple payment gateways to provide redundancy and minimize the risk of a single-point failure.
+- fallback mechanism: Develop a contingency plan for temporarily switching to an alternative payment gateway if the primary provider experiences prolonged downtime.
+  
+ Product risks:
+  
+- data breaches, payment frauds and regulatory compliance issues may appear after launching the website to the customers. 
+- stability risks (crashes, disconnects, etc).
+- return and Refund Management: Difficulty in managing and processing returns and refunds can lead to customer complaints and financial losses.
+- market Saturation: The pet product e-commerce market may already be saturated with competitors, making it challenging for JPetStore to gain a significant market share.
+- versions of IE older than Version 142.0.172.68 have security vulnerabilities (cross-site scripting( user data can be stolen after injecting malicious code in  the website), exploits on buying system).
+- website performance: Suboptimal website performance, including slow loading times or technical glitches, can frustrate customers and result in lost sales.
 
 **1.1.6 Evaluating entry criteria**
 
