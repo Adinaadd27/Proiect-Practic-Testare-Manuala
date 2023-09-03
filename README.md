@@ -9,7 +9,7 @@ Application under test: [JpetStore Demo](https://jpetstore.aspectran.com/catalog
 Tools used: Jira, Zephyr Squad.
 
 # Functional specifications
-The below story was created in Jira and describes the functional specifications of the Dependants moldule, for which the final project is performed upon
+The below story was created in Jira and describes the functional specifications of the Dependants module, for which the final project is performed upon
 
 # 1 Testing section
 ## 1.1 Test planning
