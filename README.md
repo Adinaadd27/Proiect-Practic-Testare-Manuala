@@ -72,12 +72,12 @@ The plan identifies the items to be tested, the features to be tested, the types
   
  Product risks:
   
-- data breaches, payment frauds and regulatory compliance issues may appear after launching the website to the customers. 
-- stability risks (crashes, disconnects, etc).
-- return and Refund Management: Difficulty in managing and processing returns and refunds can lead to customer complaints and financial losses.
-- market Saturation: The pet product e-commerce market may already be saturated with competitors, making it challenging for JPetStore to gain a significant market share.
-- versions of IE older than Version 142.0.172.68 have security vulnerabilities (cross-site scripting( user data can be stolen after injecting malicious code in  the website), exploits on buying system).
-- website performance: Suboptimal website performance, including slow loading times or technical glitches, can frustrate customers and result in lost sales.
+- data breaches, financial fraud, and challenges with regulatory compliance could occur once the website is made available to customers.
+- risks to stability (crashes, disconnections, etc.).
+- management of returns and refunds: Complicated handling of returns and refunds might result in irate customers and monetary losses.
+- market Saturation: It may already be difficult for JPetStore to capture a sizable portion of the pet product e-commerce market due to the presence of so many rivals.
+- internet Explorer versions older than 142.0.172.68 include security flaws (cross-site scripting, which allows for the theft of user data following the insertion of malicious code into a website, and exploits on the purchasing system).
+- website performance: Poor website performance, such as long loading times or problems, can annoy visitors and cost businesses sales.
 
 **1.1.6 Evaluating entry criteria**
 
