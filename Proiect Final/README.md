@@ -127,9 +127,9 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 - As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Traceability_Matrix..xlsx)
-- Test execution chart was generated, the final report shows that a number 5 tests have failed of a total of 23
-- A number of 23 test cases were planned for execution and all of them were executed
-- A number of 5 total bugs were found, from which the priority is: 1 is high, 4 are medium and 1 is low
+- Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 31
+- A number of 31 test cases were planned for execution and all of them were executed
+- A number of 10 total bugs were found, from which the priority is: 3 are high, 3 are medium and 4 are low
   ![test execution](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/107c9c75-c89e-4642-adbb-8fcbeea6ae10)
 
 
