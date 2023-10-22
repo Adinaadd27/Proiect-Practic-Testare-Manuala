@@ -101,17 +101,15 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf]()
 
-For the Dependants API, the following checklist was generated: [API_test_checklist.csv]()
+
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-- Testing environment is up and running: [https://opensource-demo.orangehrmlive.com/]()
-- Access to the testing environment is given: Username : Admin | Password : admin123
+- Testing environment is up and running: [https://jpetstore.aspectran.com/catalog/()
+- Access to the testing environment is given: Username : Adina2711 | Password : Anaaremere23!
 - Cycle summary was created
 - Test cases were added to the cycle summary
-- Postman collection with the dependents API methods was created
-- Authorization token was created for accessing the API
 
 ## 1.6 Test Execution
 - Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
