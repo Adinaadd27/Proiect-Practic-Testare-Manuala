@@ -99,7 +99,7 @@ The testing process will be executed based on the above requirements for the Dep
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
-The test cases with steps can be viewed here: [Dependents_test_cases.pdf]()
+The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/JPetStore_test_cases.pdf.pdf)
 
 For the Dependants API, the following checklist was generated: [API_test_checklist.csv]()
 
