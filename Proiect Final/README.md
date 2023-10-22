@@ -99,6 +99,10 @@ The testing process will be executed based on the above requirements for the Dep
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
+**Test cases:**
+
+
+
 The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/JPetStore_test_cases.pdf.pdf)
 
 
@@ -121,9 +125,9 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.7 Test Completion
 - As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Traceability_Matrix.xlsx)
-- Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 31
-- A number of 31 test cases were planned for execution and all of them were executed
-- A number of 10 total bugs were found, from which the priority is: 3 are high, 3 are medium and 4 are low
-  
+- Test execution chart was generated, the final report shows that a number 10 tests have failed of a total of 30
+- A number of 30 test cases were planned for execution and all of them were executed
+- A number of 10 total bugs were found, from which the priority is: 2 are high and 8 are medium.
+  ![Dashboard_Raport](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/4c4c1740-c2ff-4c61-93be-ef8ce31c9dd5)
 
 
