@@ -106,7 +106,7 @@ The test cases with steps can be viewed here: [Dependents_test_cases.pdf](https:
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-- Testing environment is up and running: {JPetStore](https://jpetstore.aspectran.com/catalog/)
+- Testing environment is up and running: [JPetStore](https://jpetstore.aspectran.com/catalog/)
 - Access to the testing environment is given: Username : Adina2711 | Password : Anaaremere23!
 - Cycle summary was created
 - Test cases were added to the cycle summary
@@ -114,7 +114,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 - Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf]()
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Dependents_created_bugs..pdf)
   - Date format is not dd/mm/yyyy
   - Future "Date of Birth" can be selected from calendar
   - Only 50 characters are allowed for "Please Specify" field
