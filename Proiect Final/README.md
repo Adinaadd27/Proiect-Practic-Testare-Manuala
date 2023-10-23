@@ -64,20 +64,19 @@ The plan identifies the items to be tested, the features to be tested, the types
 
  Project risks:
   
-- communication with the provider: Establish clear communication channels with the payment gateway provider to stay informed about updates, changes, and potential issues.
-- regular testing: Conduct regular testing to ensure that the integration with the payment gateway functions correctly and is ready for deployment.
-- communication breakdown: Poor communication and collaboration among team members, stakeholders, or external vendors can result in misunderstandings, delays, and rework.
-- diversify payment options: Consider integrating with multiple payment gateways to provide redundancy and minimize the risk of a single-point failure.
-- fallback mechanism: Develop a contingency plan for temporarily switching to an alternative payment gateway if the primary provider experiences prolonged downtime.
+- Poor communication and collaboration between team members, stakeholders or external suppliers can lead to misunderstandings, delays and rework.
+- Lack of Testing: Insufficient testing can result in undiscovered bugs and issues that may surface after the site's launch.
+
+- Lack of user involvement: Inadequate user feedback and involvement during the development process can result in a site that does not meet users' needs.
+- Budget Overruns: Unexpected expenses can strain the project budget, potentially requiring trade-offs in features or quality.
+
   
  Product risks:
   
-- data breaches, financial fraud, and challenges with regulatory compliance could occur once the website is made available to customers.
-- risks to stability (crashes, disconnections, etc.).
-- management of returns and refunds: Complicated handling of returns and refunds might result in irate customers and monetary losses.
-- market Saturation: It may already be difficult for JPetStore to capture a sizable portion of the pet product e-commerce market due to the presence of so many rivals.
-- internet Explorer versions older than 142.0.172.68 include security flaws (cross-site scripting, which allows for the theft of user data following the insertion of malicious code into a website, and exploits on the purchasing system).
-- website performance: Poor website performance, such as long loading times or problems, can annoy visitors and cost businesses sales.
+- Payment Processing Issues: If there are any flaws in the payment processing system, it could lead to financial losses for both the customers and the business. Issues like transaction failures or unauthorized access to payment details are significant concerns.
+- Management of returns and refunds: Complicated handling of returns and refunds might result in irate customers and monetary losses.
+- Reputation Management: Negative reviews or social media backlash due to any of the above issues can harm the reputation of the business.
+- Website performance: Poor website performance, such as long loading times or problems, can annoy visitors and cost businesses sales.
 
 **1.1.6 Evaluating entry criteria**
 
