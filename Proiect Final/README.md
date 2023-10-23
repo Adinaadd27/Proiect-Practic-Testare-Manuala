@@ -119,7 +119,7 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 - Test cases are executed on the created test Cycle summary: [Dependents_cycle_summary_execution.pdf]()
-- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Dependents_created_bugs..pdf)
+- Bugs have been created based on the failed tests. The complete bug reports can be found here: [Dependents_created_bugs.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Bug%20report.pdf)
   
 - Full regression testing is needed after the bugs are fixed
 
