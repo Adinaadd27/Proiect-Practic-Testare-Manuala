@@ -104,7 +104,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 
 
-The test cases with steps can be viewed here: [JPetStore_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Test%20cases%20report.pdf)
+The test cases with steps can be viewed here: [JPetStore_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Test%20Case%20Report.pdf)
 
 
 
