@@ -9,12 +9,13 @@ Application under test: [JpetStore Demo](https://jpetstore.aspectran.com/catalog
 Tools used: Jira, Zephyr Squad.
 
 # Functional specifications
-The below story was created in Jira and describes the functional specifications of the Dependants module, for which the final project is performed upon
+The below story was created in Jira and describes the functional specifications of the "Product" module, for which the final project is performed upon.
 
+![story](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/dfe9a6ab-d2ef-4de2-b253-22fcbb1e6647)
 # 1 Testing section
 ## 1.1 Test planning
 
-The Test Plan is designed to describe all details of testing for the Dependants module from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
 
