@@ -120,7 +120,7 @@ The following elements are needed to be ready before the test execution phase be
 
 
 ## 1.6 Test Execution
-- Test cases are executed on the created test Cycle summary: [JPetStore_cycle_summary_execution.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/JPetStore_cycle_summary_execution..csv)
+- Test cases are executed on the created test Cycle summary: [JPetStore_cycle_summary_execution.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/cycle%20summary.pdf)
 - Bugs have been created based on the failed tests. The complete bug reports can be found here: [JPetStore_created_bugs.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Bugs%20Report.pdf)
   
 - Full regression testing is needed after the bugs are fixed
