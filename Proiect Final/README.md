@@ -84,7 +84,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
 ## 1.2 Test Monitoring and Control
-Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 40% of the test cases were executed, on 1st of April 2022:
+
 
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Products module. The following test conditions were found:
