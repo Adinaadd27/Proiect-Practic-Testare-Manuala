@@ -150,12 +150,12 @@ The testing process will be executed based on the above requirements for the Pro
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
 **Test cases:**
-![Test cases](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Test%20Case%20Report.csv)
+![Test Case nou](
+https://github.com/IamCharlie24/Manual-Testing-Project/assets/133395092/15b08de3-038d-4a7a-b8ff-2c2089226fed)
 
 
 
-
-The test cases with steps can be viewed here: [JPetStore_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Test%20Case%20Report.pdf)
+The test cases with steps can be viewed here: [JPetStore_test_cases.pdf](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Test%20Case%20Report.csv)
 
 
 
