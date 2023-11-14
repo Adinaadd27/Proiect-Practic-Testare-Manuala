@@ -81,7 +81,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **1.1.6 Evaluating entry criteria**
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ## 1.2 Test Monitoring and Control
 
