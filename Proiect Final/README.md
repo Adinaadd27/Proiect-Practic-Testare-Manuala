@@ -11,8 +11,8 @@ Tools used: Jira, Zephyr Squad.
 # Functional specifications
 The below story was created in Jira and describes the functional specifications of the "Product" module, for which the final project is performed upon.
 
-![story](![story](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/408925a7-ceef-40de-9311-d313033be739)
-)
+![story](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/408925a7-ceef-40de-9311-d313033be739)
+
 # 1 Testing section
 ## 1.1 Test planning
 
