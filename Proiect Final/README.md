@@ -87,7 +87,56 @@ The entry criterias defined in the Test Planning phase have been achieved and th
 
 
 ## 1.3 Test Analysis
+
 The testing process will be executed based on the above requirements for the Products module. The following test conditions were found:
+
+-Verify that if all fields are left blank an error message will be displayed.
+
+-Verify that a new user can create an account ussing all fields
+
+-Verify that the required/mandatory fields are marked with the ‘*’ symbol
+
+-Verify that a validation message is displayed when an incorrect email format is used.
+
+-Verify that the user cannot create an account by filling out only the email input field
+
+-Verify that the checkboxes from the profil information section are working.
+
+-Verify that a new user can choose a language from the dropdown menu.
+
+-Verify that a registered user cannot create another account using the same email address. 
+
+-Verify that a new user cannot create a password using just letters.
+
+-Check the Enter button.
+
+-Verify that a confirmation message or email is sent to the user after successful account creation.
+
+-Verify whether shopping cart icon is clickable.
+
+-Check whether the subtotal is getting changed when the user removes any item from the cart.
+
+-Verify that the user is redirected to the checkout page after clicking on the “Proceed to checkout “button.
+
+-Verify that the user is able to change the number of items from the cart.
+
+-Verify if the cart is editable then check that the user is able to enter special characters.
+
+-Verify that the products remain in the shopping cart after the user close the browser and reopen the same site.
+
+-Verify that the user can add the same product in the shopping cart,after entering a negative value in the "Quantity"input field.
+
+-Check whether the user is able to add the item to the cart.
+
+-Verify that the user is able to proceed with a negative number like (-1,-2,-3….) 
+
+-Verify that only registered users are allowed to access the Checkout Address Page.
+
+-Verify that Next Button and Cancel Button are available in the Checkout Address Page.
+
+-Verify that Name, Street Address, City, State, Country, Postal code is the mandatory field in the Checkout Address page (Billing Address).
+
+-Verify that error message is displayed when the user enters invalid values in all the fields in the checkout  page.
 
 -Verify that images of products are  displayed correctly.
 
