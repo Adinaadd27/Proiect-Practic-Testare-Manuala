@@ -183,7 +183,7 @@ The following elements are needed to be ready before the test execution phase be
 - The traceability matrix was generated and can be found here: [Traceability_matrix.csv](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/blob/main/Proiect%20Final/Traceability%20Matrix.xlsx)
 - Test execution chart was generated, the final report shows that a number 9 tests have failed of a total of 30
 - A number of 30 test cases were planned for execution and all of them were executed
-- A number of 10 total bugs were found, from which the priority is: 1 are high and 8 are medium.
+- A number of 9 total bugs were found, from which the priority is: 1 are high and 8 are medium.
   ![Dashboard_Raport](
 ![Screenshot 2023-11-15 190519](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/7e59deca-a14a-4f78-a9bb-0c87a4e3bab2))
 
