@@ -87,6 +87,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 ## 1.2 Test Monitoring and Control
 This is the execution report that was generated after running the tests.
 
+![monitoring control](https://github.com/Adinaadd27/Proiect-Practic-Testare-Manuala/assets/133696127/c5bfbca4-bc64-41b9-889c-48d8b95569d9)
+
 
 ## 1.3 Test Analysis
 
