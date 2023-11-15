@@ -30,11 +30,11 @@ The plan identifies the items to be tested, the features to be tested, the types
 **1.1.2 Entry criteria defined**
 
 - functional specifications are defined
-- roles needed for the project are allocated
-- initial project risks were detected and mitigated
+- roles needed for the project are allocated.
+- initial project risks were detected and mitigated.
 - test schedule is prepared.
-- testing environment is up and running.
-- test data should be available to cover the different scenarios and use cases that will be tested.
+- the test plan must be created.
+- input requirements must be met.
 
 **1.1.3 Exit criteria defined**
 
